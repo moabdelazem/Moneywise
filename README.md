@@ -1,6 +1,6 @@
 # MoneyWise || Under Construction
 
-Money wise is a comprehensive Financial Budget and Expenses Tracker designed to help users manage their personal finances effectively. This API serves as the backend of the BudgetByte application, providing endpoints for user authentication, expense tracking, budgeting, and financial reporting.
+Money wise is a comprehensive Financial Budget and Expenses Tracker designed to help users manage their personal finances effectively.
 
 ## Installation
 
